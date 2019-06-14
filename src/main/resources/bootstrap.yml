@@ -1,3 +1,6 @@
 spring:
   application:
     name: news-client
+
+server:
+  port: 8081
